@@ -1,2 +1,2 @@
 # asteroids
-A little astrroids game made in Game Maker
+A little asteroids game made in Game Maker
